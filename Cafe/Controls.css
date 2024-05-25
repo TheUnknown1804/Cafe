@@ -1,0 +1,45 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header {
+    background-color: #a00303;
+    color: #fff;
+    padding: 1rem;
+  }
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-left: 1rem;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+body { 
+    background-color: #333;
+    color: whitesmoke;
+}
+.img-home {
+    width: 400px;
+    height: 320px;
+}
+.img-menu {
+    width: 200px;
+    height: 200px;
+}
+.img-contact {
+  width: 400px;
+  height: 320px;
+}
